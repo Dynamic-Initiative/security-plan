@@ -1,5 +1,7 @@
 # Dynamicini-Security-Plan
 This repo has all the info about security plan and threat model for Dynamic Initiative
+You can see the current plan [here](https://github.com/Dynamic-Initiative/security-plan/releases/)
+
 # How to express concerns or add security suggestions regarding the plan
 Just open an issue so we can look into it or you can start contributing yourself right away too
 # How to contribute
